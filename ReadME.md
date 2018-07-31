@@ -12,6 +12,6 @@ If you want to download the CVPR paper to loacal file, type the command like thi
 > 'scp -P 4077 download@121.48.158.72:/home/download/CVPR2018.rar ./ '
 
 
->' scp -P 4077 download@121.48.158.72:/home/download/ICLR2018.rar ./ '
+>' scp -P 4077 download@121.48.158.72:/home/download/ICML2018.rar ./ '
 
 
